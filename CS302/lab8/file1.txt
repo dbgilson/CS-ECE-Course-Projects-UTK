@@ -1,0 +1,264 @@
+      Name: Dr. Cara Van
+  Category: Associate Professor
+    Course: MA2 Boohlean Logic
+
+      Name: Dr. Leigh King
+  Category: Associate Professor
+    Course: MA2 Boohlean Logic
+    Course: PH2 Particle Bored
+
+      Name: Dr. Robin Banks
+  Category: Full Professor
+    Course: MA2 Boohlean Logic
+
+      Name: Dr. Sandy Banks
+  Category: Associate Professor
+    Course: CS1 Problem Solving
+    Course: CS2 Pointy Pointers
+    Course: CS5 Reading Core Dumps
+    Course: PH1 Perms and Waves
+
+      Name: Dr. Sarah Bellum
+  Category: Assistant Professor
+    Course: CS5 Reading Core Dumps
+    Course: MA1 Math for Chumps
+    Course: PH1 Perms and Waves
+    Course: PH2 Particle Bored
+
+      Name: Dr. Tina Ryhard
+  Category: Associate Professor
+    Course: CS4 Rigorous Programming
+    Course: CS5 Reading Core Dumps
+    Course: MA1 Math for Chumps
+
+      Name: Andy Friese
+  Category: Senior
+    Course: CS3 Static Programming    2.00 2.00
+    Course: CS5 Reading Core Dumps    3.50 2.75
+    Course: PH1 Perms and Waves       4.00 3.17
+
+      Name: Anita Bath
+  Category: Junior
+    Course: CS4 Rigorous Programming  4.00 4.00
+    Course: CS6 Web Weaving           2.50 3.25
+    Course: MA2 Boohlean Logic        3.50 3.33
+
+      Name: Anna Fender
+  Category: Freshman
+    Course: CS1 Problem Solving       3.50 3.50
+    Course: CS5 Reading Core Dumps    2.50 3.00
+    Course: MA1 Math for Chumps       3.50 3.17
+
+      Name: Anna Graham
+  Category: Sophomore
+    Course: MA1 Math for Chumps       3.00 3.00
+
+      Name: Anne Teak
+  Category: Freshman
+    Course: CS1 Problem Solving       3.50 3.50
+    Course: CS3 Static Programming    4.00 3.75
+    Course: MA2 Boohlean Logic        3.50 3.67
+
+      Name: Armand Hammer
+  Category: Freshman
+    Course: MA1 Math for Chumps       4.00 4.00
+
+      Name: Barb Dwyer
+  Category: Sophomore
+    Course: CS2 Pointy Pointers       2.00 2.00
+    Course: CS3 Static Programming    2.00 2.00
+    Course: CS4 Rigorous Programming  2.50 2.17
+
+      Name: Barry Cade
+  Category: Sophomore
+    Course: CS5 Reading Core Dumps    2.00 2.00
+
+      Name: Bill Ding
+  Category: Sophomore
+    Course: CS5 Reading Core Dumps    4.00 4.00
+    Course: MA1 Math for Chumps       4.00 4.00
+    Course: MA2 Boohlean Logic        2.00 3.33
+
+      Name: Brighton Early
+  Category: Sophomore
+    Course: CS5 Reading Core Dumps    2.50 2.50
+    Course: PH1 Perms and Waves       2.50 2.50
+    Course: PH2 Particle Bored        2.50 2.50
+
+      Name: Carrie Oakey
+  Category: Sophomore
+    Course: CS1 Problem Solving       2.50 2.50
+    Course: PH1 Perms and Waves       3.00 2.75
+    Course: PH2 Particle Bored        2.50 2.67
+
+      Name: Chriss Cross
+  Category: Sophomore
+    Course: CS2 Pointy Pointers       2.50 2.50
+    Course: CS4 Rigorous Programming  2.00 2.25
+    Course: CS5 Reading Core Dumps    4.00 2.83
+
+      Name: Dick Tator
+  Category: Sophomore
+    Course: CS1 Problem Solving       2.50 2.50
+    Course: PH1 Perms and Waves       3.50 3.00
+    Course: PH2 Particle Bored        3.50 3.17
+
+      Name: Dinah Soares
+  Category: Freshman
+    Course: CS3 Static Programming    2.50 2.50
+    Course: CS5 Reading Core Dumps    2.00 2.25
+    Course: CS6 Web Weaving           3.50 2.67
+
+      Name: Duane Pipe
+  Category: Freshman
+    Course: CS1 Problem Solving       3.50 3.50
+    Course: CS6 Web Weaving           2.50 3.00
+    Course: MA2 Boohlean Logic        4.00 3.33
+
+      Name: Eileen Dover
+  Category: Junior
+    Course: CS4 Rigorous Programming  2.00 2.00
+    Course: CS6 Web Weaving           3.50 2.75
+    Course: MA1 Math for Chumps       3.00 2.83
+
+      Name: Ella Mentry
+  Category: Freshman
+    Course: CS1 Problem Solving       3.50 3.50
+    Course: CS4 Rigorous Programming  2.00 2.75
+    Course: PH1 Perms and Waves       3.00 2.83
+
+      Name: Emma Lusa
+  Category: Junior
+    Course: CS3 Static Programming    4.00 4.00
+    Course: CS6 Web Weaving           2.00 3.00
+    Course: MA2 Boohlean Logic        2.00 2.67
+
+      Name: Fran Tic
+  Category: Senior
+    Course: CS6 Web Weaving           3.00 3.00
+    Course: MA1 Math for Chumps       3.00 3.00
+    Course: PH1 Perms and Waves       3.50 3.17
+
+      Name: Holly Wood
+  Category: Freshman
+    Course: CS3 Static Programming    2.50 2.50
+    Course: CS6 Web Weaving           2.00 2.25
+    Course: MA1 Math for Chumps       2.00 2.17
+
+      Name: Isadore Bell
+  Category: Sophomore
+    Course: CS5 Reading Core Dumps    2.50 2.50
+    Course: CS6 Web Weaving           3.00 2.75
+    Course: MA1 Math for Chumps       3.50 3.00
+
+      Name: Jay Walker
+  Category: Sophomore
+    Course: CS1 Problem Solving       3.50 3.50
+    Course: CS3 Static Programming    3.50 3.50
+    Course: CS4 Rigorous Programming  2.50 3.17
+
+      Name: Jean Poole
+  Category: Freshman
+    Course: CS2 Pointy Pointers       3.00 3.00
+    Course: CS3 Static Programming    2.50 2.75
+    Course: MA2 Boohlean Logic        2.50 2.67
+
+      Name: Joe King
+  Category: Junior
+    Course: CS6 Web Weaving           2.50 2.50
+
+      Name: Justin Case
+  Category: Senior
+    Course: CS3 Static Programming    4.00 4.00
+    Course: MA2 Boohlean Logic        2.00 3.00
+    Course: PH1 Perms and Waves       3.00 3.00
+
+      Name: Kenny Duwot
+  Category: Freshman
+    Course: CS4 Rigorous Programming  4.00 4.00
+
+      Name: Les Moore
+  Category: Senior
+    Course: MA2 Boohlean Logic        3.00 3.00
+    Course: PH2 Particle Bored        2.50 2.75
+
+      Name: Lou Tenant
+  Category: Junior
+    Course: CS1 Problem Solving       2.50 2.50
+    Course: CS4 Rigorous Programming  3.00 2.75
+    Course: CS6 Web Weaving           2.00 2.50
+
+      Name: Moe Degrass
+  Category: Junior
+    Course: CS1 Problem Solving       2.00 2.00
+
+      Name: Molly Koehl
+  Category: Freshman
+    Course: CS4 Rigorous Programming  3.00 3.00
+
+      Name: Myles Long
+  Category: Junior
+    Course: CS1 Problem Solving       2.50 2.50
+    Course: CS4 Rigorous Programming  2.50 2.50
+    Course: CS6 Web Weaving           2.50 2.50
+
+      Name: Neil Down
+  Category: Junior
+    Course: MA1 Math for Chumps       2.50 2.50
+    Course: MA2 Boohlean Logic        3.50 3.00
+    Course: PH1 Perms and Waves       4.00 3.33
+
+      Name: Oliver Sutton
+  Category: Senior
+    Course: CS2 Pointy Pointers       4.00 4.00
+    Course: CS5 Reading Core Dumps    4.00 4.00
+    Course: MA1 Math for Chumps       4.00 4.00
+
+      Name: Otto Graff
+  Category: Senior
+    Course: CS3 Static Programming    3.00 3.00
+    Course: CS6 Web Weaving           4.00 3.50
+    Course: MA2 Boohlean Logic        4.00 3.67
+
+      Name: Paige Turner
+  Category: Freshman
+    Course: PH2 Particle Bored        3.00 3.00
+
+      Name: Rose Bush
+  Category: Freshman
+    Course: CS1 Problem Solving       3.50 3.50
+    Course: MA1 Math for Chumps       3.50 3.50
+
+      Name: Said Burn
+  Category: Senior
+    Course: CS1 Problem Solving       3.50 3.50
+    Course: CS3 Static Programming    2.00 2.75
+    Course: CS4 Rigorous Programming  2.50 2.67
+
+      Name: Scott Free
+  Category: Freshman
+    Course: CS2 Pointy Pointers       2.00 2.00
+    Course: MA1 Math for Chumps       2.50 2.25
+
+      Name: Sue Yoo
+  Category: Junior
+    Course: CS1 Problem Solving       2.00 2.00
+    Course: CS5 Reading Core Dumps    2.50 2.25
+    Course: CS6 Web Weaving           4.00 2.83
+
+      Name: Terry Aki
+  Category: Freshman
+    Course: CS1 Problem Solving       4.00 4.00
+
+      Name: Warren Peace
+  Category: Sophomore
+    Course: CS1 Problem Solving       2.50 2.50
+    Course: CS4 Rigorous Programming  2.00 2.25
+    Course: MA2 Boohlean Logic        2.50 2.33
+
+      Name: Will Power
+  Category: Freshman
+    Course: CS4 Rigorous Programming  2.00 2.00
+    Course: CS6 Web Weaving           4.00 3.00
+    Course: PH1 Perms and Waves       3.00 3.00
+
